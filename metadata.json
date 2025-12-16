@@ -1,0 +1,5 @@
+{
+  "name": "NexusMail Sorter",
+  "description": "An intelligent Outlook-integrated inbox manager that sorts emails for Kevin and Vy based on configurable rules and tracks issue status.",
+  "requestFramePermissions": []
+}
